@@ -1,0 +1,82 @@
+.fordform {
+    display: block;
+    width: 300px;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    height: 26px;
+    margin: 8px;
+    font-size: 13px;
+    padding: 5px;
+}
+#mensagem{
+    height: 100px;
+}
+select.fordform {
+    width: 310px;
+    height: 36px;
+    color: #807d7d;
+}
+
+input:focus-visible {
+    outline: none;
+}
+
+select:focus-visible {
+    outline: none;
+
+}
+
+main div {
+    text-align: left;
+
+}
+
+.forms {
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    text-align: left;
+    font-weight: 800;
+}
+
+
+
+
+button {
+    width: 200px;
+    height: 40px;
+    margin-right: 8px;
+    float: right;
+}
+
+.titulo {
+    margin-left: 8px;
+}
+.lgpd-text {
+    font-size: 11px;
+    color: #807d7d;
+    line-height: 1.4;
+    margin: 15px 8px;
+    text-align: left;
+    
+}
+
+.lgpd-text a {
+    color: #001c71;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.lgpd-consentimento {
+    display: flex;
+    flex-direction: column;
+}
+
+.checkbox-group{
+    margin-bottom:20px;
+
+}
